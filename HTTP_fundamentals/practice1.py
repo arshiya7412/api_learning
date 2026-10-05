@@ -35,3 +35,8 @@ header = {
          }
 response = requests.post("https://jsonplaceholder.typicode.com/users/", json=data_1, headers=header)
 print(response.status_code)
+
+if response.status_code == 201:
+    print(response.status_code)
+else:
+    print("Error")
