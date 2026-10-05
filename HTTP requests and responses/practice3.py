@@ -1,4 +1,4 @@
-# response body
+# request body
 import requests
 data_1 = {
     "title": "Learning APIs",
