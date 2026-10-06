@@ -88,31 +88,6 @@ The goal is to understand how APIs work internally, build them confidently, and 
 - Error handling
 - API documentation
 
-### 10 — AI / LLM APIs
-
-- Gemini / OpenAI APIs
-- Prompt and message structures
-- Model parameters
-- Tokens and context
-- Streaming
-- Rate limits
-- API integration
-
-### 11 — RAG & Vector Databases
-
-- RAG architecture
-- Embeddings
-- FAISS
-- ChromaDB
-- Pinecone
-
-### 12 — AI Application Integration
-
-- FastAPI + LLMs
-- Backend + frontend integration
-- AI-powered APIs
-- Production-oriented AI applications
-
 ## 🛠️ Tech Stack
 
 - Python
