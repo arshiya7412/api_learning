@@ -88,31 +88,6 @@ The goal is to understand how APIs work internally, build them confidently, and 
 - Error handling
 - API documentation
 
-### 10 — AI / LLM APIs
-
-- Gemini / OpenAI APIs
-- Prompt and message structures
-- Model parameters
-- Tokens and context
-- Streaming
-- Rate limits
-- API integration
-
-### 11 — RAG & Vector Databases
-
-- RAG architecture
-- Embeddings
-- FAISS
-- ChromaDB
-- Pinecone
-
-### 12 — AI Application Integration
-
-- FastAPI + LLMs
-- Backend + frontend integration
-- AI-powered APIs
-- Production-oriented AI applications
-
 ## 🛠️ Tech Stack
 
 - Python
@@ -123,12 +98,9 @@ The goal is to understand how APIs work internally, build them confidently, and 
 - Requests
 - OpenAPI / Swagger
 - Git & GitHub
-- LLM APIs
-- RAG
-- Vector databases
 
 ## 🎯 Goal
-Build a strong practical understanding of APIs and backend systems, with a focus on **AI/GenAI development and technical interview preparation**.
+Build a strong practical understanding of APIs and backend systems
 
 This repository contains both **learning notes and hands-on coding practice** as I progress through the roadmap.
 # api_learning
