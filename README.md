@@ -80,13 +80,24 @@ The goal is to understand how APIs work internally, build them confidently, and 
 
 ### 09 — FastAPI
 
-- API development with FastAPI
-- Routes
-- Request validation
+- What is FastAPI?
+- Installation & project setup
+- Creating a FastAPI app
+- Running with Uvicorn
+- Routes/endpoints
+- Path parameters
+- Query parameters
+- Request body
 - Pydantic models
-- Dependency injection
+- Response models
+- Status codes
 - Error handling
-- API documentation
+- Dependency injection
+- Headers & cookies
+- Authentication basics in FastAPI
+- Project structure
+- Build a CRUD API
+- Swagger/OpenAPI integration
 
 ## 🛠️ Tech Stack
 
